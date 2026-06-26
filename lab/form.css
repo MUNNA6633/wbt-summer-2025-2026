@@ -1,0 +1,12 @@
+h2 {
+    color: red;
+}
+
+span
+{
+    color: red;
+}
+label {
+    display: inline-block;
+    text-align: right;
+}
